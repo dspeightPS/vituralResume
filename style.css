@@ -1,0 +1,14 @@
+.header {
+    border: solid black;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.mainContainer {
+    border:  solid brown;
+    margin: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
